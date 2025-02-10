@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋, I'm Ichima. Glad to see you here</h1>
 <h2 align="head">Major in Computer Enginneer Technology at HCMUTE.
 <h3 align="head">My email: thong28pt@gmail.com.
-<img align="right" alt="Coding" width="400" src=https://cdn.discordapp.com/attachments/960948134526214194/1294249741793628251/IMG_20210629_143055_360.jpg?ex=670a5380&is=67090200&hm=e142d69aafbe4b25d068030873abb1f408975058c5df81f30e24969ccae28435&>
+<img align="right" alt="Coding" width="400" src="C:\Users\Thong Nguyen\OneDrive\Hình ảnh\IMG_20210629_143055_360.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichima28&label=Profile%20views&color=0e75b6&style=flat" alt="ichima" /> </p>
 
